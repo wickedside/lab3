@@ -39,6 +39,8 @@ fun NavigationScreen() {
             NavigationButton(stringResource(id = R.string.Box), Screen.Box)
             NavigationButton(stringResource(id = R.string.Surface), Screen.Surface)
             NavigationButton(stringResource(id = R.string.Scaffold), Screen.Scaffold)
+            //NavigationButton(stringResource(id = R.string.Scaffold), Screen.Scrolling)
+            //NavigationButton(stringResource(id = R.string.Scaffold), Screen.Lists)
         }
     }
 }
