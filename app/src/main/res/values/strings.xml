@@ -32,5 +32,7 @@
     <string name="learn_kotlin">Изучение Kotlin</string>
     <string name="coroutines">Корутины в Kotlin</string>
     <string name="scroll">Прокрутка</string>
+    <string name="grid_icon">Grid</string>
+    <string name="Grid">Grid</string>
 
 </resources>
